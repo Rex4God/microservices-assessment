@@ -2,7 +2,9 @@
 
 ## Overview
 
-- Handles the creating, authentication of user 
+- Handles the create user 
+- authentication of user 
+- Login
 
 
 
